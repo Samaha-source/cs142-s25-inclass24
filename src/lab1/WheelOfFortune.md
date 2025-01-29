@@ -191,7 +191,7 @@ money, but $100 per vowel they guess is deducted from their total amount of mone
 
 Once you have finished the lab, make sure to submit your files to Canvas!  **Both** partners are required to submit the completed assignment!
 
-Each week, you need to submit **your programming files** (which will just be WheelOfFortune.java this week) and your **text file** (this file, with your answers filled in).   Make sure that your .java file has a header comment on it with **your teams' names** and **the honor pledge** ().  Your text file also needs to have the names of both team members at the top.
+Each week, you need to submit **your programming files** (which will just be WheelOfFortune.java this week) and your **text file** (this file, with your answers filled in).   Make sure that your .java file has a header comment on it with **your teams' names**.  Your text file also needs to have the names of both team members at the top.
 
 After you submit your files to Canvas, I strongly encourage you to go back and double-check:
 - That you have submitted both the programming files and the text file.
