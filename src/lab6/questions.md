@@ -304,3 +304,16 @@ make this computation more efficient that can be extrapolated to
 other types of problems as well.
 
 **Congratulations!  You finished the first lab on recursion!**
+
+## Final check
+
+Once you have finished the lab, make sure to submit your files to Canvas!  **Both** partners are required to submit the completed assignment!
+
+Each week, you need to submit **your programming files** and your **text file** (this file, with your answers filled in).   Make sure that your .java file has a header comment on it with **your teams' names**.  Your text file also needs to have the names of both team members at the top.
+
+After you submit your files to Canvas, I strongly encourage you to go back and double-check:
+- That you have submitted both the programming files and the text file.
+- That both files have your changes and latest updates in them.
+- That the programming file has a header with team names and honor code and that the text file has team names as well.
+
+It is your responsibility to submit these files to Canvas so be careful to avoid missing or unedited files.
