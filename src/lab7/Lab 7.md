@@ -35,15 +35,15 @@ __Your answer here__
 You've looked at problems like this before...Thinking about some of the work we've done in class, how would you go about reversing
 the output above with recursion?  (For example, instead of an output of:
 		[15]
-      [1, 14]
+      [1,14]
       [1,2,12]
-      [1.2.3,9]
+      [1,2,3,9]
       [1,2,3,4,5]
 You would like an output of:
 [1,2,3,4,5]
 [1,2,3,9]
 [1,2,12]
-[1, 14]
+[1,14]
 [15]
 )
 
