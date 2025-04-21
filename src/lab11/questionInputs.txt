@@ -1,0 +1,10 @@
+TF;Abraham Lincoln is the 23rd president of the United States.;F
+TF;Bucharest is the capital of Romania.;T
+TF;Bangkok is the capital of Thailand;T
+TF;Brasília is the capital of Paraguay;F
+TF;Kigali is the capital of Tanzania;F
+MC;To what phylum does the platypus belong?\nA. Annelid C. Chordata\nB. Brachiopod D. Dicyemeda;C
+MC;What is vexillology?\nA. The study of flags C. A state of alarm\nB. The feeling of forgetting something when you walk into a room\n D. Scholarly work on volcanoes;A
+MC;Who is Alan Turing?\nA. A famous computer scientist C. A World War II codebreaker\nB. The creator of the imitation game\n D. All of the above;D
+MC;Which of the following is not a large language model?\nA. Claude C. Copilot\nB. WILT D. ChatGPT;B
+MC;Which of the following is not a part of the Java programming language?\nA. Structs C. Switch statements\nB. Try/Catch blocks D. Static functions;A
