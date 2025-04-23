@@ -10,7 +10,7 @@ In this lab, you will practice using polymorphism and test the limits of polymor
 - Name 2
 - Name 3
 
-## Part A (worth 4 out of 10 points)
+## Part A (worth 4 out of 7 points)
 
 Professor Phillips has (for the last long while) been working on an app related to ABA (Applied Behavior Analysis) Therapy\*.  After one too many bugs in his program, he has assigned your team to work on part of the app.
 
@@ -82,7 +82,7 @@ Note that you should be careful with a situation like this!  It's possible, if y
 
 \* This is a real thing, actually!  This lab is based on a modified version of one of the problems I ran into with said app.  The code and language aren't the same...but the idea is!!
 
-## Part B (worth 3 out of 10 points)
+## Part B (worth 3 out of 7 points)
 
 In Part B, we'll explore class design with polymorphism and see how we can use it to add functionality to an existing structure (and some of the potential problems with that!).
 
@@ -133,7 +133,7 @@ To finish out Part B, find and debug any remaining issues in your code.  Were yo
 
 **B8:** __Your answer here__
 
-## Part C (worth 3 out of 10 points)
+## Part C (worth 3 bonus points!)
 
 This section is the bonus section; this is entirely optional but will give you one bonus points on your lab grade for each of them you complete.  There's less guidance here, but I'm confident that you'll be able to solve all of these problems!  (Think of this as similar to the challenge problems from the projects.)
 
