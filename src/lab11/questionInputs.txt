@@ -3,8 +3,10 @@ TF;Bucharest is the capital of Romania.;T
 TF;Bangkok is the capital of Thailand;T
 TF;Brasília is the capital of Paraguay;F
 TF;Kigali is the capital of Tanzania;F
-MC;To what phylum does the platypus belong?\nA. Annelid C. Chordata\nB. Brachiopod D. Dicyemeda;C
-MC;What is vexillology?\nA. The study of flags C. A state of alarm\nB. The feeling of forgetting something when you walk into a room\n D. Scholarly work on volcanoes;A
-MC;Who is Alan Turing?\nA. A famous computer scientist C. A World War II codebreaker\nB. The creator of the imitation game\n D. All of the above;D
-MC;Which of the following is not a large language model?\nA. Claude C. Copilot\nB. WILT D. ChatGPT;B
-MC;Which of the following is not a part of the Java programming language?\nA. Structs C. Switch statements\nB. Try/Catch blocks D. Static functions;A
+MC;To what phylum does the platypus belong?newLineA. Annelid C. ChordatanewLineB. Brachiopod D. Dicyemeda;C
+MC;What is vexillology?newLineA. The study of flags C. A state of alarmnewLineB. The feeling of forgetting something when you walk into a room newLineD. Scholarly work on volcanoes;A
+MC;Who is Alan Turing?newLineA. A famous computer scientist C. A World War II codebreakernewLineB. The creator of the imitation game newLineD. All of the above;D
+MC;Which of the following is not a large language model?newLineA. Claude C. CopilotnewLineB. WILT D. ChatGPT;B
+MC;Which of the following is not a part of the Java programming language?newLineA. Structs C. Switch statementsnewLineB. Try/Catch blocks D. Static functions;A
+MC;Who developed a table of elements based on regularities in elemental properties?newLineA. Socrates C.Sir Isaac NewtonnewLineB. Rosalind Franklin D. Dmitri Mendeleev;D
+MC;What did Marie Curie do?newLineA. Developed the theory of radioactivity C. Was the first woman to become a professor at the University of ParisnewLineB. Named an element on the periodic table of elements, hoping to highlight a political issuenewLineD. All of the above;D
