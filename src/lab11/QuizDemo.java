@@ -53,7 +53,7 @@ public class QuizDemo
             System.out.print(qList.get(randomNumber).questionText.replaceAll("newLine", "\n"));
 
             userAnswer = input.nextLine();
-            if(userAnswer.equals(qList.get(randomNumber).answerText))
+            if(qList.get(randomNumber).evaluateAnswer(userAnswer))
             {
                 System.out.println("Answer correct!  Adding " + qList.get(randomNumber).pointValue * currentCombo + " to points.");
                 points += qList.get(randomNumber).pointValue * currentCombo;
